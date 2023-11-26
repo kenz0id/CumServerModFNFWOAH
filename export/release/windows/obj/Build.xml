@@ -6076,16 +6076,21 @@
   </file>
   <file name="src/flixel/util/FlxSpriteUtil.cpp" >
    <depend name="include/flixel/FlxBasic.h"/>
+   <depend name="include/flixel/FlxCamera.h"/>
    <depend name="include/flixel/FlxG.h"/>
    <depend name="include/flixel/FlxObject.h"/>
    <depend name="include/flixel/FlxSprite.h"/>
    <depend name="include/flixel/effects/FlxFlicker.h"/>
    <depend name="include/flixel/math/FlxPoint.h"/>
+   <depend name="include/flixel/math/FlxRect.h"/>
    <depend name="include/flixel/system/FlxAssets.h"/>
    <depend name="include/flixel/tweens/FlxTween.h"/>
    <depend name="include/flixel/tweens/misc/NumTween.h"/>
+   <depend name="include/flixel/util/FlxPool_flixel_math_FlxPoint.h"/>
+   <depend name="include/flixel/util/FlxPool_flixel_math_FlxRect.h"/>
    <depend name="include/flixel/util/FlxSpriteUtil.h"/>
    <depend name="include/flixel/util/IFlxDestroyable.h"/>
+   <depend name="include/flixel/util/IFlxPool.h"/>
    <depend name="include/flixel/util/IFlxPooled.h"/>
    <depend name="include/openfl/display/BitmapData.h"/>
    <depend name="include/openfl/display/DisplayObject.h"/>
@@ -6210,6 +6215,12 @@
    <depend name="include/openfl/geom/Matrix.h"/>
    <depend name="include/openfl/geom/Point.h"/>
    <depend name="include/openfl/geom/Rectangle.h"/>
+  </file>
+  <file name="src/flixel/util/_FlxDirectionFlags/FlxDirectionFlags_Impl_.cpp" >
+   <depend name="include/flixel/util/_FlxDirectionFlags/FlxDirectionFlags_Impl_.h"/>
+  </file>
+  <file name="src/flixel/util/_FlxDirection/FlxDirection_Impl_.cpp" >
+   <depend name="include/flixel/util/_FlxDirection/FlxDirection_Impl_.h"/>
   </file>
   <file name="src/flixel/util/FlxDestroyUtil.cpp" >
    <depend name="include/flixel/util/FlxDestroyUtil.h"/>
@@ -12618,6 +12629,7 @@
    <depend name="include/Prompt.h"/>
    <depend name="include/Std.h"/>
    <depend name="include/flixel/FlxBasic.h"/>
+   <depend name="include/flixel/FlxG.h"/>
    <depend name="include/flixel/FlxObject.h"/>
    <depend name="include/flixel/FlxSprite.h"/>
    <depend name="include/flixel/FlxState.h"/>
@@ -15586,6 +15598,7 @@
    <depend name="include/flixel/util/FlxColorTransformUtil.h"/>
    <depend name="include/flixel/util/FlxDestroyUtil.h"/>
    <depend name="include/flixel/util/FlxPool_flixel_math_FlxPoint.h"/>
+   <depend name="include/flixel/util/FlxPool_flixel_math_FlxRect.h"/>
    <depend name="include/flixel/util/FlxPool_flixel_util_LabelValuePair.h"/>
    <depend name="include/flixel/util/FlxStringUtil.h"/>
    <depend name="include/flixel/util/IFlxDestroyable.h"/>
@@ -15632,6 +15645,7 @@
    <depend name="include/flixel/math/FlxMath.h"/>
    <depend name="include/flixel/math/FlxPoint.h"/>
    <depend name="include/flixel/math/FlxRect.h"/>
+   <depend name="include/flixel/util/FlxPool_flixel_math_FlxPoint.h"/>
    <depend name="include/flixel/util/FlxPool_flixel_math_FlxRect.h"/>
    <depend name="include/flixel/util/FlxPool_flixel_util_LabelValuePair.h"/>
    <depend name="include/flixel/util/FlxStringUtil.h"/>
@@ -15988,6 +16002,8 @@
    <depend name="include/flixel/util/FlxSpriteUtil.h"/>
    <depend name="include/flixel/util/FlxSort.h"/>
    <depend name="include/flixel/util/FlxPath.h"/>
+   <depend name="include/flixel/util/_FlxDirectionFlags/FlxDirectionFlags_Impl_.h"/>
+   <depend name="include/flixel/util/_FlxDirection/FlxDirection_Impl_.h"/>
    <depend name="include/flixel/util/_FlxColor/FlxColor_Impl_.h"/>
    <depend name="include/flixel/util/FlxCollision.h"/>
    <depend name="include/flixel/util/FlxBitmapDataUtil.h"/>
