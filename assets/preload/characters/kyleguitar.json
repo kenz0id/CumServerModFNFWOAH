@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kyleegidle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-228,
+				311
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kyleegup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kyleegleft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-132,
+				88
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kyleegdown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-194,
+				91
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kyleegright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/kyle guitar",
+	"position": [
+		-180,
+		200
+	],
+	"healthicon": "kyle",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		216,
+		74
+	],
+	"camera_position": [
+		190,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

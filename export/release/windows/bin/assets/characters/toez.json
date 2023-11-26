@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				-212
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "toez idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-173,
+				-210
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "toez right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-223
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "toez left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-174,
+				-172
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "toez up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-164,
+				-248
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "toez down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-162,
+				-197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "kys",
+			"loop": false,
+			"name": "toez kys"
+		},
+		{
+			"offsets": [
+				-130,
+				-205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "truth",
+			"loop": false,
+			"name": "truth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/toez",
+	"position": [
+		-120,
+		-40
+	],
+	"healthicon": "toez",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		46,
+		27
+	],
+	"camera_position": [
+		160,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

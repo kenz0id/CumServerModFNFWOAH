@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tord.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tordidle0000" x="384" y="854" width="319" height="823" frameX="0" frameY="-25" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0001" x="416" y="5" width="319" height="823" frameX="0" frameY="-25" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0002" x="326" y="2598" width="322" height="830" frameX="0" frameY="-18" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0003" x="357" y="1726" width="322" height="830" frameX="0" frameY="-18" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0004" x="653" y="2561" width="308" height="841" frameX="-16" frameY="-7" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0005" x="684" y="1682" width="308" height="841" frameX="-16" frameY="-7" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0006" x="997" y="930" width="299" height="847" frameX="-26" frameY="-1" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0007" x="1022" y="5" width="299" height="847" frameX="-26" frameY="-1" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0008" x="1252" y="1782" width="298" height="848" frameX="-28" frameY="0" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0009" x="1301" y="857" width="298" height="848" frameX="-28" frameY="0" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0010" x="1252" y="1782" width="298" height="848" frameX="-28" frameY="0" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0011" x="1301" y="857" width="298" height="848" frameX="-28" frameY="0" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0012" x="1252" y="1782" width="298" height="848" frameX="-28" frameY="0" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordidle0013" x="1301" y="857" width="298" height="848" frameX="-28" frameY="0" frameWidth="326" frameHeight="848"/>
+	<SubTexture name="tordleft0000" x="5" y="1726" width="347" height="867"/>
+	<SubTexture name="tordleft0001" x="5" y="1726" width="347" height="867"/>
+	<SubTexture name="tordleft0002" x="5" y="2598" width="316" height="867" frameX="-31" frameY="0" frameWidth="347" frameHeight="867"/>
+	<SubTexture name="tordleft0003" x="5" y="2598" width="316" height="867" frameX="-31" frameY="0" frameWidth="347" frameHeight="867"/>
+	<SubTexture name="tordleft0004" x="5" y="2598" width="316" height="867" frameX="-31" frameY="0" frameWidth="347" frameHeight="867"/>
+	<SubTexture name="tordleft0005" x="5" y="2598" width="316" height="867" frameX="-31" frameY="0" frameWidth="347" frameHeight="867"/>
+	<SubTexture name="tordleft0006" x="5" y="2598" width="316" height="867" frameX="-31" frameY="0" frameWidth="347" frameHeight="867"/>
+	<SubTexture name="tordleft0007" x="5" y="2598" width="316" height="867" frameX="-31" frameY="0" frameWidth="347" frameHeight="867"/>
+	<SubTexture name="tordown0000" x="1326" y="5" width="289" height="758" frameX="0" frameY="-25" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0001" x="1326" y="5" width="289" height="758" frameX="0" frameY="-25" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0002" x="1252" y="2635" width="267" height="783" frameX="-22" frameY="0" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0003" x="1252" y="2635" width="267" height="783" frameX="-22" frameY="0" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0004" x="1252" y="2635" width="267" height="783" frameX="-22" frameY="0" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0005" x="1252" y="2635" width="267" height="783" frameX="-22" frameY="0" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0006" x="1252" y="2635" width="267" height="783" frameX="-22" frameY="0" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordown0007" x="1252" y="2635" width="267" height="783" frameX="-22" frameY="0" frameWidth="289" frameHeight="783"/>
+	<SubTexture name="tordright0000" x="5" y="5" width="406" height="844" frameX="0" frameY="-23" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0001" x="5" y="5" width="406" height="844" frameX="0" frameY="-23" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0002" x="5" y="854" width="374" height="867" frameX="-5" frameY="0" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0003" x="5" y="854" width="374" height="867" frameX="-5" frameY="0" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0004" x="5" y="854" width="374" height="867" frameX="-5" frameY="0" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0005" x="5" y="854" width="374" height="867" frameX="-5" frameY="0" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0006" x="5" y="854" width="374" height="867" frameX="-5" frameY="0" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordright0007" x="5" y="854" width="374" height="867" frameX="-5" frameY="0" frameWidth="406" frameHeight="867"/>
+	<SubTexture name="tordup0000" x="740" y="5" width="277" height="920" frameX="-4" frameY="0" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0001" x="740" y="5" width="277" height="920" frameX="-4" frameY="0" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0002" x="966" y="2528" width="281" height="909" frameX="0" frameY="-11" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0003" x="966" y="2528" width="281" height="909" frameX="0" frameY="-11" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0004" x="966" y="2528" width="281" height="909" frameX="0" frameY="-11" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0005" x="966" y="2528" width="281" height="909" frameX="0" frameY="-11" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0006" x="966" y="2528" width="281" height="909" frameX="0" frameY="-11" frameWidth="281" frameHeight="920"/>
+	<SubTexture name="tordup0007" x="966" y="2528" width="281" height="909" frameX="0" frameY="-11" frameWidth="281" frameHeight="920"/>
+</TextureAtlas>

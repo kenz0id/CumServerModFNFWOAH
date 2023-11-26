@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shom.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shom down0000" x="1092" y="1218" width="343" height="567" frameX="0" frameY="-10" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0001" x="1092" y="1218" width="343" height="567" frameX="0" frameY="-10" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0002" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0003" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0004" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0005" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0006" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0007" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0008" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0009" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0010" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom down0011" x="751" y="1226" width="335" height="577" frameX="-9" frameY="0" frameWidth="344" frameHeight="577"/>
+	<SubTexture name="shom idle0000" x="1160" y="5" width="338" height="591" frameX="0" frameY="-21" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0001" x="1160" y="5" width="338" height="591" frameX="0" frameY="-21" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0002" x="1092" y="618" width="340" height="595" frameX="-2" frameY="-17" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0003" x="1092" y="618" width="340" height="595" frameX="-2" frameY="-17" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0004" x="751" y="618" width="336" height="603" frameX="-3" frameY="-9" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0005" x="751" y="618" width="336" height="603" frameX="-3" frameY="-9" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0006" x="822" y="5" width="333" height="608" frameX="-4" frameY="-4" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0007" x="822" y="5" width="333" height="608" frameX="-4" frameY="-4" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0008" x="5" y="620" width="332" height="611" frameX="-4" frameY="-1" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0009" x="5" y="620" width="332" height="611" frameX="-4" frameY="-1" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0010" x="414" y="618" width="332" height="612" frameX="-4" frameY="0" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0011" x="414" y="618" width="332" height="612" frameX="-4" frameY="0" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom idle0012" x="414" y="618" width="332" height="612" frameX="-4" frameY="0" frameWidth="342" frameHeight="612"/>
+	<SubTexture name="shom left0000" x="5" y="1236" width="293" height="612" frameX="0" frameY="0" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0001" x="5" y="1236" width="293" height="612" frameX="0" frameY="0" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0002" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0003" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0004" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0005" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0006" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0007" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0008" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0009" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom left0010" x="1440" y="1243" width="288" height="607" frameX="-14" frameY="-6" frameWidth="302" frameHeight="613"/>
+	<SubTexture name="shom right0000" x="5" y="5" width="404" height="610"/>
+	<SubTexture name="shom right0001" x="5" y="5" width="404" height="610"/>
+	<SubTexture name="shom right0002" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0003" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0004" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0005" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0006" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0007" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0008" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0009" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0010" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0011" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom right0012" x="414" y="5" width="403" height="608" frameX="0" frameY="-2" frameWidth="404" frameHeight="610"/>
+	<SubTexture name="shom up0000" x="342" y="1235" width="288" height="660"/>
+	<SubTexture name="shom up0001" x="342" y="1235" width="288" height="660"/>
+	<SubTexture name="shom up0002" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0003" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0004" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0005" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0006" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0007" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0008" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0009" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+	<SubTexture name="shom up0010" x="1440" y="601" width="281" height="637" frameX="-4" frameY="-23" frameWidth="288" frameHeight="660"/>
+</TextureAtlas>

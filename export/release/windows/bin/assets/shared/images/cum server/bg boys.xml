@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg boys.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg bitches boys0000" x="5" y="3253" width="2806" height="790" frameX="0" frameY="-18" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0001" x="5" y="3253" width="2806" height="790" frameX="0" frameY="-18" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0002" x="5" y="4048" width="2801" height="791" frameX="-2" frameY="-18" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0003" x="5" y="4048" width="2801" height="791" frameX="-2" frameY="-18" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0004" x="5" y="2447" width="2795" height="801" frameX="-5" frameY="-9" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0005" x="5" y="2447" width="2795" height="801" frameX="-5" frameY="-9" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0006" x="5" y="821" width="2793" height="808" frameX="-6" frameY="-3" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0007" x="5" y="1634" width="2793" height="808" frameX="-6" frameY="-3" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0008" x="5" y="5" width="2792" height="811" frameX="-6" frameY="0" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0009" x="5" y="5" width="2792" height="811" frameX="-6" frameY="0" frameWidth="2806" frameHeight="811"/>
+	<SubTexture name="bg bitches boys0010" x="5" y="5" width="2792" height="811" frameX="-6" frameY="0" frameWidth="2806" frameHeight="811"/>
+</TextureAtlas>

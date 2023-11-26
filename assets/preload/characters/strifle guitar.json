@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "strifle idle"
+		},
+		{
+			"offsets": [
+				129,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "strifle left"
+		},
+		{
+			"offsets": [
+				92,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "strifle down"
+		},
+		{
+			"offsets": [
+				48,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "strifle up"
+		},
+		{
+			"offsets": [
+				-42,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "strifle right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/strifle guitar",
+	"position": [
+		-30,
+		-10
+	],
+	"healthicon": "strifle",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		33,
+		34
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

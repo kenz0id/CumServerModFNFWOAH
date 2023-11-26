@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				-109
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zac right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-102
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zac left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-186,
+				-67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zac up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zac down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zac idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/zac",
+	"position": [
+		-190,
+		-40
+	],
+	"healthicon": "zac",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		108,
+		108
+	],
+	"camera_position": [
+		230,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

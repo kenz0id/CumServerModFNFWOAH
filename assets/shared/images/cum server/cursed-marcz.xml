@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursed-marcz.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marcz down0000" x="1345" y="685" width="695" height="592" frameX="0" frameY="-14" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0001" x="1345" y="685" width="695" height="592" frameX="0" frameY="-14" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0002" x="3290" y="685" width="687" height="597" frameX="-5" frameY="-9" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0003" x="3290" y="685" width="687" height="597" frameX="-5" frameY="-9" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0004" x="5" y="687" width="682" height="601" frameX="-8" frameY="-5" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0005" x="692" y="1282" width="682" height="601" frameX="-8" frameY="-5" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0006" x="1379" y="1282" width="678" height="604" frameX="-10" frameY="-2" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0007" x="1379" y="1282" width="678" height="604" frameX="-10" frameY="-2" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0008" x="3290" y="1287" width="675" height="605" frameX="-12" frameY="-1" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0009" x="3290" y="1287" width="675" height="605" frameX="-12" frameY="-1" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0010" x="5" y="1293" width="673" height="606" frameX="-13" frameY="0" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0011" x="2062" y="1402" width="673" height="606" frameX="-13" frameY="0" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0012" x="2062" y="1402" width="673" height="606" frameX="-13" frameY="0" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz down0013" x="2062" y="1402" width="673" height="606" frameX="-13" frameY="0" frameWidth="695" frameHeight="606"/>
+	<SubTexture name="marcz idle0000" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0001" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0002" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0003" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0004" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0005" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0006" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz idle0007" x="2685" y="684" width="600" height="713"/>
+	<SubTexture name="marcz left0000" x="5" y="5" width="665" height="677"/>
+	<SubTexture name="marcz left0001" x="5" y="5" width="665" height="677"/>
+	<SubTexture name="marcz left0002" x="675" y="5" width="665" height="676" frameX="0" frameY="-1" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0003" x="675" y="5" width="665" height="676" frameX="0" frameY="-1" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0004" x="1345" y="5" width="665" height="675" frameX="0" frameY="-2" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0005" x="1345" y="5" width="665" height="675" frameX="0" frameY="-2" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0006" x="2015" y="5" width="665" height="675" frameX="0" frameY="-2" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0007" x="2015" y="5" width="665" height="675" frameX="0" frameY="-2" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0008" x="3355" y="5" width="664" height="675" frameX="-1" frameY="-2" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0009" x="3355" y="5" width="664" height="675" frameX="-1" frameY="-2" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0010" x="2685" y="5" width="665" height="674" frameX="0" frameY="-3" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0011" x="2685" y="5" width="665" height="674" frameX="0" frameY="-3" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz left0012" x="2685" y="5" width="665" height="674" frameX="0" frameY="-3" frameWidth="665" frameHeight="677"/>
+	<SubTexture name="marcz right0000" x="5" y="2635" width="538" height="711" frameX="-35" frameY="0" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0001" x="5" y="2635" width="538" height="711" frameX="-35" frameY="0" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0002" x="3485" y="2632" width="549" height="709" frameX="-24" frameY="-2" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0003" x="3485" y="2632" width="549" height="709" frameX="-24" frameY="-2" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0004" x="562" y="2629" width="558" height="707" frameX="-14" frameY="-4" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0005" x="2922" y="2632" width="558" height="707" frameX="-14" frameY="-4" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0006" x="1235" y="2600" width="565" height="705" frameX="-7" frameY="-6" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0007" x="1235" y="2600" width="565" height="705" frameX="-7" frameY="-6" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0008" x="1235" y="1891" width="570" height="704" frameX="-2" frameY="-7" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0009" x="1235" y="1891" width="570" height="704" frameX="-2" frameY="-7" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0010" x="2062" y="685" width="572" height="703" frameX="0" frameY="-8" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0011" x="2062" y="685" width="572" height="703" frameX="0" frameY="-8" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz right0012" x="2062" y="685" width="572" height="703" frameX="0" frameY="-8" frameWidth="573" frameHeight="711"/>
+	<SubTexture name="marcz up0000" x="2740" y="1402" width="544" height="742" frameX="0" frameY="0" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0001" x="2740" y="1402" width="544" height="742" frameX="0" frameY="0" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0002" x="683" y="1888" width="547" height="736" frameX="-2" frameY="-7" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0003" x="683" y="1888" width="547" height="736" frameX="-2" frameY="-7" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0004" x="3289" y="1897" width="549" height="730" frameX="-4" frameY="-13" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0005" x="3289" y="1897" width="549" height="730" frameX="-4" frameY="-13" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0006" x="1810" y="2013" width="551" height="727" frameX="-5" frameY="-16" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0007" x="1810" y="2013" width="551" height="727" frameX="-5" frameY="-16" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0008" x="2366" y="2149" width="551" height="727" frameX="-5" frameY="-16" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0009" x="2366" y="2149" width="551" height="727" frameX="-5" frameY="-16" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0010" x="5" y="1904" width="552" height="726" frameX="-5" frameY="-17" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0011" x="5" y="1904" width="552" height="726" frameX="-5" frameY="-17" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="marcz up0012" x="5" y="1904" width="552" height="726" frameX="-5" frameY="-17" frameWidth="557" frameHeight="743"/>
+</TextureAtlas>

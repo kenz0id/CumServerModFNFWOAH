@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="erynnscared.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="erynn traumatized instance 10000" x="5" y="5" width="225" height="508"/>
+	<SubTexture name="erynn traumatized instance 10001" x="235" y="5" width="225" height="508"/>
+</TextureAtlas>

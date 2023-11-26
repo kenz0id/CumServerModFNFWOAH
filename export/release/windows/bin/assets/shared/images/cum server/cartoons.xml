@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cartoons.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cartoons0000" x="5" y="6168" width="2344" height="996" frameX="0" frameY="-29" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0001" x="5" y="6168" width="2344" height="996" frameX="0" frameY="-29" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0002" x="5" y="5154" width="2334" height="1009" frameX="-3" frameY="-17" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0003" x="5" y="5154" width="2334" height="1009" frameX="-3" frameY="-17" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0004" x="5" y="4131" width="2326" height="1018" frameX="-6" frameY="-9" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0005" x="5" y="4131" width="2326" height="1018" frameX="-6" frameY="-9" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0006" x="5" y="2071" width="2321" height="1025" frameX="-8" frameY="-3" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0007" x="5" y="3101" width="2321" height="1025" frameX="-8" frameY="-3" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0008" x="5" y="5" width="2320" height="1028" frameX="-9" frameY="0" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0009" x="5" y="1038" width="2320" height="1028" frameX="-9" frameY="0" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0010" x="5" y="1038" width="2320" height="1028" frameX="-9" frameY="0" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0011" x="5" y="1038" width="2320" height="1028" frameX="-9" frameY="0" frameWidth="2344" frameHeight="1028"/>
+	<SubTexture name="cartoons0012" x="5" y="1038" width="2320" height="1028" frameX="-9" frameY="0" frameWidth="2344" frameHeight="1028"/>
+</TextureAtlas>

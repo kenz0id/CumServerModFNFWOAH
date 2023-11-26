@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "marcz dance left"
+		},
+		{
+			"offsets": [
+				-17,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "marcz dance right"
+		},
+		{
+			"offsets": [
+				18,
+				-169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "rap",
+			"loop": false,
+			"name": "rap"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/marcz gf",
+	"position": [
+		60,
+		-170
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

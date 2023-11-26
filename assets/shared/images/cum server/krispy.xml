@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="krispy.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="krispy down0000" x="1098" y="1385" width="578" height="630" frameX="0" frameY="-5" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0001" x="1098" y="1385" width="578" height="630" frameX="0" frameY="-5" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0002" x="1290" y="5" width="567" height="635" frameX="-9" frameY="0" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0003" x="1290" y="5" width="567" height="635" frameX="-9" frameY="0" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0004" x="1290" y="5" width="567" height="635" frameX="-9" frameY="0" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0005" x="1290" y="5" width="567" height="635" frameX="-9" frameY="0" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0006" x="1290" y="5" width="567" height="635" frameX="-9" frameY="0" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy down0007" x="1290" y="5" width="567" height="635" frameX="-9" frameY="0" frameWidth="578" frameHeight="635"/>
+	<SubTexture name="krispy idle0000" x="5" y="2805" width="482" height="693" frameX="-3" frameY="-16" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0001" x="5" y="2805" width="482" height="693" frameX="-3" frameY="-16" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0002" x="1098" y="2020" width="493" height="698" frameX="-7" frameY="-11" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0003" x="1098" y="2020" width="493" height="698" frameX="-7" frameY="-11" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0004" x="496" y="2092" width="488" height="705" frameX="-4" frameY="-5" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0005" x="496" y="2092" width="488" height="705" frameX="-4" frameY="-5" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0006" x="5" y="2092" width="486" height="708" frameX="-1" frameY="-2" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0007" x="5" y="2092" width="486" height="708" frameX="-1" frameY="-2" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0008" x="1290" y="645" width="485" height="710" frameX="0" frameY="0" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0009" x="1681" y="1360" width="485" height="710" frameX="0" frameY="0" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0010" x="1681" y="1360" width="485" height="710" frameX="0" frameY="0" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0011" x="1681" y="1360" width="485" height="710" frameX="0" frameY="0" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy idle0012" x="1681" y="1360" width="485" height="710" frameX="0" frameY="0" frameWidth="500" frameHeight="710"/>
+	<SubTexture name="krispy left0000" x="5" y="700" width="548" height="683" frameX="0" frameY="-16" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0001" x="5" y="700" width="548" height="683" frameX="0" frameY="-16" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0002" x="5" y="1388" width="532" height="699" frameX="-18" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0003" x="5" y="1388" width="532" height="699" frameX="-18" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0004" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0005" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0006" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0007" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0008" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0009" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy left0010" x="558" y="1385" width="535" height="699" frameX="-15" frameY="0" frameWidth="550" frameHeight="699"/>
+	<SubTexture name="krispy right0000" x="5" y="5" width="647" height="690" frameX="-2" frameY="0" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0001" x="5" y="5" width="647" height="690" frameX="-2" frameY="0" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0002" x="657" y="5" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0003" x="657" y="5" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0004" x="657" y="695" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0005" x="657" y="695" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0006" x="657" y="695" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0007" x="657" y="695" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0008" x="657" y="695" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy right0009" x="657" y="695" width="628" height="685" frameX="0" frameY="-5" frameWidth="649" frameHeight="690"/>
+	<SubTexture name="krispy up0000" x="1596" y="2075" width="465" height="732" frameX="-11" frameY="0" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0001" x="1596" y="2075" width="465" height="732" frameX="-11" frameY="0" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0002" x="496" y="2802" width="471" height="720" frameX="-2" frameY="-11" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0003" x="496" y="2802" width="471" height="720" frameX="-2" frameY="-11" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0004" x="1862" y="5" width="473" height="720" frameX="0" frameY="-11" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0005" x="1862" y="5" width="473" height="720" frameX="0" frameY="-11" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0006" x="1862" y="5" width="473" height="720" frameX="0" frameY="-11" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0007" x="1862" y="5" width="473" height="720" frameX="0" frameY="-11" frameWidth="476" frameHeight="732"/>
+	<SubTexture name="krispy up0008" x="1862" y="5" width="473" height="720" frameX="0" frameY="-11" frameWidth="476" frameHeight="732"/>
+</TextureAtlas>

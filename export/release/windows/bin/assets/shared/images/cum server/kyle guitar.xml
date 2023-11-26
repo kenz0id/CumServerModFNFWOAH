@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kyle guitar.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kyleegdown0000" x="548" y="2802" width="530" height="620" frameX="-7" frameY="-21" frameWidth="538" frameHeight="641"/>
+	<SubTexture name="kyleegdown0001" x="548" y="2802" width="530" height="620" frameX="-7" frameY="-21" frameWidth="538" frameHeight="641"/>
+	<SubTexture name="kyleegdown0002" x="1028" y="2156" width="538" height="641"/>
+	<SubTexture name="kyleegdown0003" x="1028" y="2156" width="538" height="641"/>
+	<SubTexture name="kyleegdown0004" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0005" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0006" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0007" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0008" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0009" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0010" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0011" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0012" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0013" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0014" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0015" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0016" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0017" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0018" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegdown0019" x="5" y="2743" width="538" height="641"/>
+	<SubTexture name="kyleegidle0000" x="519" y="2024" width="504" height="714" frameX="-8" frameY="-8" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0001" x="519" y="2024" width="504" height="714" frameX="-8" frameY="-8" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0002" x="5" y="1372" width="509" height="712" frameX="0" frameY="-10" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0003" x="5" y="1372" width="509" height="712" frameX="0" frameY="-10" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0004" x="527" y="1301" width="510" height="718" frameX="-5" frameY="-4" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0005" x="527" y="1301" width="510" height="718" frameX="-5" frameY="-4" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0006" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0007" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0008" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0009" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0010" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0011" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0012" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegidle0013" x="1391" y="713" width="509" height="722" frameX="-10" frameY="0" frameWidth="519" frameHeight="722"/>
+	<SubTexture name="kyleegleft0000" x="1391" y="5" width="523" height="703" frameX="0" frameY="-8" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0001" x="1391" y="5" width="523" height="703" frameX="0" frameY="-8" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0002" x="1042" y="1440" width="509" height="711" frameX="-37" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0003" x="1042" y="1440" width="509" height="711" frameX="-37" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0004" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0005" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0006" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0007" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0008" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0009" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegleft0010" x="5" y="656" width="517" height="711" frameX="-29" frameY="0" frameWidth="546" frameHeight="711"/>
+	<SubTexture name="kyleegright0000" x="5" y="5" width="691" height="646"/>
+	<SubTexture name="kyleegright0001" x="5" y="5" width="691" height="646"/>
+	<SubTexture name="kyleegright0002" x="701" y="5" width="685" height="643" frameX="0" frameY="-3" frameWidth="691" frameHeight="646"/>
+	<SubTexture name="kyleegright0003" x="701" y="5" width="685" height="643" frameX="0" frameY="-3" frameWidth="691" frameHeight="646"/>
+	<SubTexture name="kyleegright0004" x="701" y="653" width="685" height="643" frameX="0" frameY="-3" frameWidth="691" frameHeight="646"/>
+	<SubTexture name="kyleegright0005" x="701" y="653" width="685" height="643" frameX="0" frameY="-3" frameWidth="691" frameHeight="646"/>
+	<SubTexture name="kyleegright0006" x="701" y="653" width="685" height="643" frameX="0" frameY="-3" frameWidth="691" frameHeight="646"/>
+	<SubTexture name="kyleegright0007" x="701" y="653" width="685" height="643" frameX="0" frameY="-3" frameWidth="691" frameHeight="646"/>
+	<SubTexture name="kyleegup0000" x="1571" y="1440" width="389" height="857"/>
+	<SubTexture name="kyleegup0001" x="1571" y="1440" width="389" height="857"/>
+	<SubTexture name="kyleegup0002" x="1571" y="2302" width="389" height="842" frameX="0" frameY="-15" frameWidth="389" frameHeight="857"/>
+	<SubTexture name="kyleegup0003" x="1571" y="2302" width="389" height="842" frameX="0" frameY="-15" frameWidth="389" frameHeight="857"/>
+	<SubTexture name="kyleegup0004" x="1083" y="2802" width="389" height="842" frameX="0" frameY="-15" frameWidth="389" frameHeight="857"/>
+	<SubTexture name="kyleegup0005" x="1083" y="2802" width="389" height="842" frameX="0" frameY="-15" frameWidth="389" frameHeight="857"/>
+	<SubTexture name="kyleegup0006" x="1083" y="2802" width="389" height="842" frameX="0" frameY="-15" frameWidth="389" frameHeight="857"/>
+	<SubTexture name="kyleegup0007" x="1083" y="2802" width="389" height="842" frameX="0" frameY="-15" frameWidth="389" frameHeight="857"/>
+</TextureAtlas>

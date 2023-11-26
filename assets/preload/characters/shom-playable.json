@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-156,
+				-202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shom idle"
+		},
+		{
+			"offsets": [
+				-90,
+				-204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shom right"
+		},
+		{
+			"offsets": [
+				-219,
+				-153
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shom up"
+		},
+		{
+			"offsets": [
+				-159,
+				-238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shom down"
+		},
+		{
+			"offsets": [
+				-237,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shom left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/shom",
+	"position": [
+		-150,
+		-40
+	],
+	"healthicon": "shom",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		208,
+		131
+	],
+	"camera_position": [
+		-130,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

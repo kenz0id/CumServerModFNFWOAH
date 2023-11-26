@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg bitches.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg bitches0000" x="5" y="4743" width="2549" height="657" frameX="0" frameY="-17" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0001" x="5" y="4743" width="2549" height="657" frameX="0" frameY="-17" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0002" x="5" y="4074" width="2538" height="664" frameX="-2" frameY="-10" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0003" x="5" y="4074" width="2538" height="664" frameX="-2" frameY="-10" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0004" x="5" y="3399" width="2540" height="670" frameX="-5" frameY="-4" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0005" x="5" y="3399" width="2540" height="670" frameX="-5" frameY="-4" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0006" x="5" y="2721" width="2544" height="673" frameX="-6" frameY="-1" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0007" x="5" y="2042" width="2544" height="674" frameX="-6" frameY="0" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0008" x="5" y="684" width="2548" height="674" frameX="-6" frameY="0" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0009" x="5" y="1363" width="2548" height="674" frameX="-6" frameY="0" frameWidth="2555" frameHeight="674"/>
+	<SubTexture name="bg bitches0010" x="5" y="5" width="2549" height="674" frameX="-6" frameY="0" frameWidth="2555" frameHeight="674"/>
+</TextureAtlas>

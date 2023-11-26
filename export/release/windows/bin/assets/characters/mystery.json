@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				111,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mystery left"
+		},
+		{
+			"offsets": [
+				31,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mystery up"
+		},
+		{
+			"offsets": [
+				136,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mystery down"
+		},
+		{
+			"offsets": [
+				-34,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mystery right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mystery idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/mystery",
+	"position": [
+		-170,
+		-30
+	],
+	"healthicon": "mystery",
+	"flip_x": false,
+	"healthbar_colors": [
+		91,
+		79,
+		128
+	],
+	"camera_position": [
+		60,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

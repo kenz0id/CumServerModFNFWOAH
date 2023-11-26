@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gave.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gave down0000" x="777" y="1405" width="373" height="635" frameX="0" frameY="-5" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0001" x="777" y="1405" width="373" height="635" frameX="0" frameY="-5" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0002" x="1155" y="1430" width="368" height="640" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0003" x="1528" y="1430" width="367" height="641" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0004" x="760" y="2134" width="367" height="641" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0005" x="760" y="2134" width="367" height="641" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0006" x="1132" y="2075" width="367" height="641" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0007" x="1132" y="2075" width="367" height="641" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave down0008" x="1132" y="2075" width="367" height="641" frameX="0" frameY="0" frameWidth="373" frameHeight="641"/>
+	<SubTexture name="gave idle0000" x="1698" y="5" width="302" height="661" frameX="0" frameY="-28" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0001" x="1698" y="5" width="302" height="661" frameX="0" frameY="-28" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0002" x="1504" y="2076" width="303" height="686" frameX="-3" frameY="-4" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0003" x="1504" y="2076" width="303" height="686" frameX="-3" frameY="-4" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0004" x="751" y="2852" width="292" height="689" frameX="-5" frameY="-1" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0005" x="751" y="2852" width="292" height="689" frameX="-5" frameY="-1" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0006" x="1048" y="2780" width="284" height="690" frameX="-7" frameY="0" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0007" x="1048" y="2780" width="284" height="690" frameX="-7" frameY="0" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0008" x="1337" y="2767" width="282" height="690" frameX="-7" frameY="0" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0009" x="1337" y="2767" width="282" height="690" frameX="-7" frameY="0" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0010" x="1337" y="2767" width="282" height="690" frameX="-7" frameY="0" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave idle0011" x="1337" y="2767" width="282" height="690" frameX="-7" frameY="0" frameWidth="306" frameHeight="690"/>
+	<SubTexture name="gave left0000" x="5" y="5" width="448" height="705"/>
+	<SubTexture name="gave left0001" x="5" y="5" width="448" height="705"/>
+	<SubTexture name="gave left0002" x="5" y="715" width="421" height="696" frameX="-27" frameY="-9" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0003" x="458" y="5" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0004" x="5" y="1416" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0005" x="5" y="1416" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0006" x="880" y="5" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0007" x="880" y="5" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0008" x="880" y="5" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0009" x="880" y="5" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave left0010" x="880" y="5" width="417" height="695" frameX="-31" frameY="-10" frameWidth="448" frameHeight="705"/>
+	<SubTexture name="gave right0000" x="5" y="2116" width="400" height="681" frameX="-9" frameY="-4" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave right0001" x="5" y="2116" width="400" height="681" frameX="-9" frameY="-4" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave right0002" x="827" y="705" width="391" height="683" frameX="-2" frameY="-2" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave right0003" x="1302" y="5" width="391" height="685" frameX="0" frameY="0" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave right0004" x="5" y="2802" width="391" height="685" frameX="0" frameY="0" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave right0005" x="5" y="2802" width="391" height="685" frameX="0" frameY="0" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave right0006" x="431" y="715" width="391" height="685" frameX="0" frameY="0" frameWidth="409" frameHeight="685"/>
+	<SubTexture name="gave up0000" x="1223" y="705" width="347" height="720"/>
+	<SubTexture name="gave up0001" x="1223" y="705" width="347" height="720"/>
+	<SubTexture name="gave up0002" x="1575" y="695" width="347" height="715" frameX="0" frameY="-4" frameWidth="347" frameHeight="720"/>
+	<SubTexture name="gave up0003" x="427" y="1416" width="345" height="713" frameX="-1" frameY="-6" frameWidth="347" frameHeight="720"/>
+	<SubTexture name="gave up0004" x="410" y="2134" width="345" height="713" frameX="-1" frameY="-6" frameWidth="347" frameHeight="720"/>
+	<SubTexture name="gave up0005" x="410" y="2134" width="345" height="713" frameX="-1" frameY="-6" frameWidth="347" frameHeight="720"/>
+	<SubTexture name="gave up0006" x="401" y="2852" width="345" height="713" frameX="-1" frameY="-6" frameWidth="347" frameHeight="720"/>
+	<SubTexture name="gave up0007" x="401" y="2852" width="345" height="713" frameX="-1" frameY="-6" frameWidth="347" frameHeight="720"/>
+	<SubTexture name="gave up0008" x="401" y="2852" width="345" height="713" frameX="-1" frameY="-6" frameWidth="347" frameHeight="720"/>
+</TextureAtlas>

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				560,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cartoons"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/cartoons",
+	"position": [
+		-100,
+		-470
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-760,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mystery left"
+		},
+		{
+			"offsets": [
+				-3,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mystery up"
+		},
+		{
+			"offsets": [
+				26,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mystery down"
+		},
+		{
+			"offsets": [
+				14,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mystery right"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mystery idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/mysterydavao",
+	"position": [
+		-110,
+		60
+	],
+	"healthicon": "mystery",
+	"flip_x": true,
+	"healthbar_colors": [
+		91,
+		79,
+		128
+	],
+	"camera_position": [
+		100,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

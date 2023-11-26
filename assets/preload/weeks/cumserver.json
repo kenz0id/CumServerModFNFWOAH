@@ -1,0 +1,149 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Canonically United",
+			"zac",
+			[
+				166,
+				80,
+				80
+			]
+		],
+		[
+			"Canonically Vagina",
+			"kat",
+			[
+				6,
+				60,
+				120
+			]
+		],
+		[
+			"Yawa ka",
+			"mystery",
+			[
+				40,
+				40,
+				80
+			]
+		],
+		[
+			"Virgin Rage",
+			"strifle",
+			[
+				126,
+				20,
+				0
+			]
+		],
+		[
+			"Radiation",
+			"clark",
+			[
+				0,
+				120,
+				215
+			]
+		],
+		[
+			"Abuse",
+			"miel",
+			[
+				60,
+				40,
+				93
+			]
+		],
+		[
+			"Roasted",
+			"gave",
+			[
+				146,
+				40,
+				0
+			]
+		],
+		[
+			"Isotope",
+			"erynn",
+			[
+				46,
+				153,
+				253
+			]
+		],
+		[
+			"Pisting Yiatards",
+			"mystery",
+			[
+				40,
+				40,
+				80
+			]
+		],
+		[
+			"Kys",
+			"toez",
+			[
+				166,
+				20,
+				20
+			]
+		],
+		[
+			"Hungry",
+			"miel",
+			[
+				60,
+				40,
+				93
+			]
+		],
+		[
+			"cursed-ass-song",
+			"dia",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"unlikely-rivals",
+			"qubix",
+			[
+				86,
+				40,
+				80
+			]
+		],
+		[
+			"oc-war",
+			"kyle",
+			[
+				86,
+				215,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

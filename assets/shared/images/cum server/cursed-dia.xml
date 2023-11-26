@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursed-dia.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dia down0000" x="5" y="1965" width="500" height="577" frameX="0" frameY="-9" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0001" x="5" y="1965" width="500" height="577" frameX="0" frameY="-9" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0002" x="510" y="1955" width="492" height="579" frameX="-3" frameY="-7" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0003" x="510" y="1955" width="492" height="579" frameX="-3" frameY="-7" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0004" x="1401" y="5" width="488" height="581" frameX="-4" frameY="-5" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0005" x="1401" y="5" width="488" height="581" frameX="-4" frameY="-5" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0006" x="1383" y="1291" width="484" height="583" frameX="-5" frameY="-3" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0007" x="1383" y="1291" width="484" height="583" frameX="-5" frameY="-3" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0008" x="1351" y="2607" width="481" height="584" frameX="-6" frameY="-2" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0009" x="1351" y="2607" width="481" height="584" frameX="-6" frameY="-2" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0010" x="1448" y="1879" width="480" height="585" frameX="-6" frameY="-1" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0011" x="1448" y="1879" width="480" height="585" frameX="-6" frameY="-1" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0012" x="1872" y="1232" width="479" height="586" frameX="-6" frameY="0" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0013" x="1872" y="1232" width="479" height="586" frameX="-6" frameY="0" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0014" x="1872" y="1232" width="479" height="586" frameX="-6" frameY="0" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia down0015" x="1872" y="1232" width="479" height="586" frameX="-6" frameY="0" frameWidth="500" frameHeight="586"/>
+	<SubTexture name="dia idle0000" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0001" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0002" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0003" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0004" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0005" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0006" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0007" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0008" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia idle0009" x="2241" y="3105" width="436" height="627"/>
+	<SubTexture name="dia left0000" x="5" y="5" width="463" height="637"/>
+	<SubTexture name="dia left0001" x="5" y="5" width="463" height="637"/>
+	<SubTexture name="dia left0002" x="5" y="1325" width="459" height="635" frameX="-4" frameY="-2" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0003" x="5" y="1325" width="459" height="635" frameX="-4" frameY="-2" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0004" x="473" y="5" width="459" height="631" frameX="-4" frameY="-6" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0005" x="473" y="5" width="459" height="631" frameX="-4" frameY="-6" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0006" x="469" y="1323" width="459" height="627" frameX="-4" frameY="-10" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0007" x="469" y="1323" width="459" height="627" frameX="-4" frameY="-10" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0008" x="937" y="5" width="459" height="625" frameX="-4" frameY="-12" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0009" x="5" y="2547" width="459" height="625" frameX="-4" frameY="-12" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0010" x="5" y="3177" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0011" x="5" y="3177" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0012" x="469" y="2547" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0013" x="469" y="2547" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0014" x="469" y="2547" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0015" x="469" y="2547" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0016" x="469" y="2547" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia left0017" x="469" y="2547" width="459" height="624" frameX="-4" frameY="-13" frameWidth="463" frameHeight="637"/>
+	<SubTexture name="dia right0000" x="933" y="1308" width="445" height="638"/>
+	<SubTexture name="dia right0001" x="933" y="1308" width="445" height="638"/>
+	<SubTexture name="dia right0002" x="1761" y="591" width="443" height="636" frameX="-1" frameY="-2" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0003" x="1761" y="591" width="443" height="636" frameX="-1" frameY="-2" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0004" x="2209" y="5" width="441" height="634" frameX="-2" frameY="-4" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0005" x="2209" y="5" width="441" height="634" frameX="-2" frameY="-4" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0006" x="1351" y="3196" width="440" height="632" frameX="-2" frameY="-6" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0007" x="1351" y="3196" width="440" height="632" frameX="-2" frameY="-6" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0008" x="1796" y="3196" width="440" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0009" x="1796" y="3196" width="440" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0010" x="1837" y="2469" width="440" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0011" x="1933" y="1823" width="439" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0012" x="1933" y="1823" width="439" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0013" x="1933" y="1823" width="439" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0014" x="1933" y="1823" width="439" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia right0015" x="1933" y="1823" width="439" height="631" frameX="-2" frameY="-7" frameWidth="445" frameHeight="638"/>
+	<SubTexture name="dia up0000" x="5" y="647" width="434" height="673" frameX="-9" frameY="0" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0001" x="5" y="647" width="434" height="673" frameX="-9" frameY="0" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0002" x="444" y="647" width="432" height="671" frameX="-11" frameY="-2" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0003" x="444" y="647" width="432" height="671" frameX="-11" frameY="-2" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0004" x="881" y="641" width="434" height="662" frameX="-6" frameY="-11" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0005" x="881" y="641" width="434" height="662" frameX="-6" frameY="-11" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0006" x="469" y="3176" width="436" height="655" frameX="-2" frameY="-18" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0007" x="469" y="3176" width="436" height="655" frameX="-2" frameY="-18" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0008" x="1320" y="635" width="436" height="651" frameX="0" frameY="-22" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0009" x="910" y="3176" width="436" height="651" frameX="0" frameY="-22" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0010" x="1007" y="1951" width="436" height="651" frameX="0" frameY="-22" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0011" x="1007" y="1951" width="436" height="651" frameX="0" frameY="-22" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0012" x="1007" y="1951" width="436" height="651" frameX="0" frameY="-22" frameWidth="443" frameHeight="673"/>
+	<SubTexture name="dia up0013" x="1007" y="1951" width="436" height="651" frameX="0" frameY="-22" frameWidth="443" frameHeight="673"/>
+</TextureAtlas>

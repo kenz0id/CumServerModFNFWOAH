@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "erynn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				225
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "erynn left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				176
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "erynn down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				239
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "erynn up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				221
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "erynn right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/erynnisotope",
+	"position": [
+		-40,
+		370
+	],
+	"healthicon": "erynn",
+	"flip_x": true,
+	"healthbar_colors": [
+		57,
+		95,
+		225
+	],
+	"camera_position": [
+		-230,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

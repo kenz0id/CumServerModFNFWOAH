@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				-161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "marcz right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-196
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "marcz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-132
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "marcz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-262
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "marcz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "marcz idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/cursed-marcz",
+	"position": [
+		-260,
+		-30
+	],
+	"healthicon": "marcz",
+	"flip_x": true,
+	"healthbar_colors": [
+		217,
+		108,
+		108
+	],
+	"camera_position": [
+		110,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rynn.png"><SubTexture name="Rynn rynnidle0000" x="1109" y="1954" width="544" height="619" frameX="-98" frameY="-59" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn rynnidle0001" x="3164" y="0" width="381" height="613" frameX="-93" frameY="-65" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn rynnidle0002" x="394" y="1954" width="379" height="622" frameX="-95" frameY="-55" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn rynnidle0003" x="2056" y="631" width="377" height="628" frameX="-97" frameY="-49" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn rynnidle0004" x="2440" y="631" width="374" height="630" frameX="-100" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn rynnidle0005" x="2440" y="1261" width="372" height="630" frameX="-102" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn rynnidle0006" x="2056" y="1259" width="373" height="628" frameX="-101" frameY="-49" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUP0000" x="835" y="663" width="417" height="655" frameX="-128" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUP0001" x="0" y="0" width="424" height="663" frameX="-129" frameY="-30" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUP0002" x="841" y="0" width="422" height="658" frameX="-128" frameY="-34" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUP0003" x="0" y="663" width="418" height="656" frameX="-128" frameY="-36" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFT0000" x="2568" y="2582" width="429" height="596" frameX="-62" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFT0001" x="0" y="2582" width="438" height="600" frameX="-56" frameY="-75" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFT0002" x="438" y="2582" width="430" height="598" frameX="-61" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFT0003" x="868" y="2582" width="427" height="597" frameX="-62" frameY="-78" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHT0000" x="2056" y="0" width="384" height="631" frameX="-180" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHT0001" x="0" y="1954" width="394" height="628" frameX="-179" frameY="-51" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHT0002" x="2440" y="0" width="387" height="631" frameX="-180" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHT0003" x="1530" y="1319" width="385" height="632" frameX="-180" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWN0000" x="2827" y="0" width="337" height="616" frameX="-160" frameY="-67" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWN0001" x="3164" y="613" width="331" height="611" frameX="-166" frameY="-72" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWN0002" x="2827" y="616" width="333" height="616" frameX="-164" frameY="-67" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWN0003" x="1990" y="1954" width="334" height="617" frameX="-163" frameY="-66" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUPmiss0000" x="835" y="663" width="417" height="655" frameX="-128" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUPmiss0001" x="424" y="0" width="417" height="663" frameX="-127" frameY="-30" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUPmiss0002" x="1263" y="0" width="417" height="658" frameX="-127" frameY="-35" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singUPmiss0003" x="418" y="663" width="417" height="656" frameX="-127" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFTmiss0000" x="2568" y="2582" width="429" height="596" frameX="-62" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFTmiss0001" x="1295" y="2582" width="427" height="597" frameX="-62" frameY="-78" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFTmiss0002" x="1722" y="2582" width="424" height="597" frameX="-66" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singLEFTmiss0003" x="2146" y="2582" width="422" height="597" frameX="-68" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHTmiss0000" x="2056" y="0" width="384" height="631" frameX="-180" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHTmiss0001" x="376" y="1319" width="386" height="633" frameX="-182" frameY="-45" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHTmiss0002" x="762" y="1319" width="386" height="633" frameX="-177" frameY="-45" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singRIGHTmiss0003" x="1148" y="1319" width="382" height="633" frameX="-178" frameY="-45" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWNmiss0000" x="1653" y="1954" width="337" height="619" frameX="-160" frameY="-64" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWNmiss0001" x="3164" y="1224" width="336" height="609" frameX="-161" frameY="-74" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWNmiss0002" x="2324" y="1954" width="336" height="617" frameX="-161" frameY="-66" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn singDOWNmiss0003" x="773" y="1954" width="336" height="620" frameX="-161" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn scared0000" x="1680" y="636" width="376" height="635" frameX="-98" frameY="-46" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn scared0001" x="1252" y="663" width="373" height="637" frameX="-101" frameY="-44" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn scared0002" x="0" y="1319" width="376" height="635" frameX="-98" frameY="-46" frameWidth="720" frameHeight="720" />
+<SubTexture name="Rynn scared0003" x="1680" y="0" width="376" height="636" frameX="-98" frameY="-45" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

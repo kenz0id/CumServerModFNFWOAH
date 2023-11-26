@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-166,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "qubix idle"
+		},
+		{
+			"offsets": [
+				-88,
+				-177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "qubix right"
+		},
+		{
+			"offsets": [
+				-152,
+				-152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "qubix up"
+		},
+		{
+			"offsets": [
+				-147,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "qubix down"
+		},
+		{
+			"offsets": [
+				-206,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "qubix left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-160
+			],
+			"anim": "kys",
+			"fps": 24,
+			"name": "kys qubix",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-191,
+				-164
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/qubix",
+	"position": [
+		-150,
+		-40
+	],
+	"healthicon": "qubix",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		74,
+		177
+	],
+	"camera_position": [
+		-30,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

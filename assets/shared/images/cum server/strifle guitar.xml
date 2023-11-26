@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="strifle guitar.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="strifle down0000" x="501" y="1574" width="498" height="750" frameX="0" frameY="-5" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0001" x="501" y="1574" width="498" height="750" frameX="0" frameY="-5" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0002" x="501" y="814" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0003" x="973" y="5" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0004" x="973" y="5" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0005" x="973" y="5" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0006" x="973" y="5" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0007" x="973" y="5" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle down0008" x="973" y="5" width="495" height="755" frameX="-1" frameY="0" frameWidth="498" frameHeight="755"/>
+	<SubTexture name="strifle idle0000" x="5" y="3156" width="431" height="766" frameX="-13" frameY="-19" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0001" x="5" y="3156" width="431" height="766" frameX="-13" frameY="-19" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0002" x="1004" y="1557" width="424" height="767" frameX="-7" frameY="-18" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0003" x="1004" y="1557" width="424" height="767" frameX="-7" frameY="-18" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0004" x="1449" y="1557" width="420" height="779" frameX="-3" frameY="-6" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0005" x="1449" y="1557" width="420" height="779" frameX="-3" frameY="-6" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0006" x="973" y="3125" width="419" height="785" frameX="0" frameY="0" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0007" x="1397" y="3125" width="419" height="785" frameX="0" frameY="0" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0008" x="1397" y="3125" width="419" height="785" frameX="0" frameY="0" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0009" x="1397" y="3125" width="419" height="785" frameX="0" frameY="0" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle idle0010" x="1397" y="3125" width="419" height="785" frameX="0" frameY="0" frameWidth="444" frameHeight="785"/>
+	<SubTexture name="strifle left0000" x="5" y="2376" width="492" height="775" frameX="0" frameY="-9" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0001" x="5" y="2376" width="492" height="775" frameX="0" frameY="-9" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0002" x="5" y="5" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0003" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0004" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0005" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0006" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0007" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0008" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0009" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0010" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle left0011" x="5" y="794" width="491" height="784" frameX="-9" frameY="0" frameWidth="500" frameHeight="784"/>
+	<SubTexture name="strifle right0000" x="5" y="1583" width="485" height="788" frameX="-1" frameY="0" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle right0001" x="5" y="1583" width="485" height="788" frameX="-1" frameY="0" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle right0002" x="1001" y="765" width="471" height="787" frameX="0" frameY="-1" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle right0003" x="502" y="2329" width="471" height="787" frameX="0" frameY="-1" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle right0004" x="502" y="2329" width="471" height="787" frameX="0" frameY="-1" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle right0005" x="502" y="2329" width="471" height="787" frameX="0" frameY="-1" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle right0006" x="502" y="2329" width="471" height="787" frameX="0" frameY="-1" frameWidth="486" frameHeight="788"/>
+	<SubTexture name="strifle up0000" x="501" y="5" width="467" height="804" frameX="-4" frameY="0" frameWidth="471" frameHeight="804"/>
+	<SubTexture name="strifle up0001" x="501" y="5" width="467" height="804" frameX="-4" frameY="0" frameWidth="471" frameHeight="804"/>
+	<SubTexture name="strifle up0002" x="978" y="2329" width="466" height="791" frameX="0" frameY="-13" frameWidth="471" frameHeight="804"/>
+	<SubTexture name="strifle up0003" x="502" y="3121" width="466" height="791" frameX="0" frameY="-13" frameWidth="471" frameHeight="804"/>
+	<SubTexture name="strifle up0004" x="502" y="3121" width="466" height="791" frameX="0" frameY="-13" frameWidth="471" frameHeight="804"/>
+	<SubTexture name="strifle up0005" x="502" y="3121" width="466" height="791" frameX="0" frameY="-13" frameWidth="471" frameHeight="804"/>
+	<SubTexture name="strifle up0006" x="502" y="3121" width="466" height="791" frameX="0" frameY="-13" frameWidth="471" frameHeight="804"/>
+</TextureAtlas>

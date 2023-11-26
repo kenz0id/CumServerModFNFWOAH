@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				-98
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "miel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "miel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-79
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "miel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-143
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "miel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-96
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "miel idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/miel",
+	"position": [
+		-170,
+		-120
+	],
+	"healthicon": "miel",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		153,
+		212
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

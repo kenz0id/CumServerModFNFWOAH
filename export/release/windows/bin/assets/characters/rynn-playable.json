@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Rynn rynnidle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Rynn singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				3
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Rynn singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Rynn singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Rynn singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"fps": 14,
+			"name": "Rynn scared0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 14,
+			"name": "Rynn singLEFTmiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 14,
+			"name": "Rynn singRIGHTmiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 14,
+			"name": "Rynn singDOWNmiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 14,
+			"name": "Rynn singUPmiss0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/Rynn",
+	"position": [
+		-10,
+		90
+	],
+	"healthicon": "rynn",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		96,
+		215
+	],
+	"camera_position": [
+		80,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="miel.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miel down0000" x="515" y="3248" width="494" height="756" frameX="-4" frameY="-14" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0001" x="515" y="3248" width="494" height="756" frameX="-4" frameY="-14" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0002" x="5" y="3265" width="505" height="770"/>
+	<SubTexture name="miel down0003" x="5" y="3265" width="505" height="770"/>
+	<SubTexture name="miel down0004" x="504" y="2473" width="503" height="770" frameX="0" frameY="0" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0005" x="504" y="2473" width="503" height="770" frameX="0" frameY="0" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0006" x="504" y="2473" width="503" height="770" frameX="0" frameY="0" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0007" x="504" y="2473" width="503" height="770" frameX="0" frameY="0" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0008" x="504" y="2473" width="503" height="770" frameX="0" frameY="0" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel down0009" x="504" y="2473" width="503" height="770" frameX="0" frameY="0" frameWidth="505" frameHeight="770"/>
+	<SubTexture name="miel idle0000" x="5" y="2469" width="494" height="791" frameX="0" frameY="-26" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0001" x="5" y="2469" width="494" height="791" frameX="0" frameY="-26" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0002" x="5" y="1663" width="496" height="801" frameX="-2" frameY="-17" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0003" x="5" y="1663" width="496" height="801" frameX="-2" frameY="-17" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0004" x="547" y="845" width="503" height="811" frameX="-18" frameY="-7" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0005" x="547" y="845" width="503" height="811" frameX="-18" frameY="-7" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0006" x="1083" y="828" width="501" height="817" frameX="-25" frameY="-1" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0007" x="1083" y="828" width="501" height="817" frameX="-25" frameY="-1" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0008" x="1083" y="5" width="502" height="818" frameX="-26" frameY="0" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0009" x="1083" y="5" width="502" height="818" frameX="-26" frameY="0" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0010" x="1083" y="5" width="502" height="818" frameX="-26" frameY="0" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel idle0011" x="1083" y="5" width="502" height="818" frameX="-26" frameY="0" frameWidth="528" frameHeight="818"/>
+	<SubTexture name="miel left0000" x="1564" y="1650" width="467" height="803" frameX="0" frameY="-4" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0001" x="1564" y="1650" width="467" height="803" frameX="0" frameY="-4" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0002" x="547" y="1661" width="501" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0003" x="547" y="1661" width="501" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0004" x="1055" y="1650" width="504" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0005" x="1055" y="1650" width="504" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0006" x="1055" y="1650" width="504" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0007" x="1055" y="1650" width="504" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0008" x="1055" y="1650" width="504" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel left0009" x="1055" y="1650" width="504" height="807" frameX="-6" frameY="0" frameWidth="510" frameHeight="807"/>
+	<SubTexture name="miel right0000" x="1564" y="2458" width="341" height="811" frameX="-11" frameY="-4" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0001" x="1564" y="2458" width="341" height="811" frameX="-11" frameY="-4" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0002" x="1589" y="828" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0003" x="1589" y="828" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0004" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0005" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0006" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0007" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0008" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0009" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel right0010" x="1590" y="5" width="343" height="815" frameX="0" frameY="0" frameWidth="352" frameHeight="815"/>
+	<SubTexture name="miel up0000" x="548" y="5" width="530" height="835" frameX="-8" frameY="0" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0001" x="548" y="5" width="530" height="835" frameX="-8" frameY="0" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0002" x="5" y="5" width="538" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0003" x="5" y="5" width="538" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0004" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0005" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0006" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0007" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0008" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0009" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+	<SubTexture name="miel up0010" x="5" y="834" width="537" height="824" frameX="0" frameY="-11" frameWidth="538" frameHeight="835"/>
+</TextureAtlas>

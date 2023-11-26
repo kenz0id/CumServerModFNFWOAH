@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kat.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kat down0000" x="433" y="699" width="401" height="665" frameX="0" frameY="-5" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0001" x="433" y="699" width="401" height="665" frameX="0" frameY="-5" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0002" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0003" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0004" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0005" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0006" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0007" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0008" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat down0009" x="433" y="1369" width="391" height="670" frameX="-7" frameY="0" frameWidth="401" frameHeight="670"/>
+	<SubTexture name="kat idle0000" x="1368" y="5" width="444" height="673" frameX="0" frameY="-14" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0001" x="1368" y="5" width="444" height="673" frameX="0" frameY="-14" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0002" x="922" y="5" width="441" height="679" frameX="-4" frameY="-8" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0003" x="922" y="5" width="441" height="679" frameX="-4" frameY="-8" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0004" x="1368" y="683" width="431" height="683" frameX="-7" frameY="-4" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0005" x="1368" y="683" width="431" height="683" frameX="-7" frameY="-4" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0006" x="922" y="689" width="425" height="686" frameX="-8" frameY="-1" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0007" x="922" y="689" width="425" height="686" frameX="-8" frameY="-1" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0008" x="5" y="697" width="423" height="687" frameX="-9" frameY="0" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0009" x="5" y="697" width="423" height="687" frameX="-9" frameY="0" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0010" x="5" y="697" width="423" height="687" frameX="-9" frameY="0" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat idle0011" x="5" y="697" width="423" height="687" frameX="-9" frameY="0" frameWidth="445" frameHeight="687"/>
+	<SubTexture name="kat left0000" x="829" y="1380" width="336" height="688"/>
+	<SubTexture name="kat left0001" x="829" y="1380" width="336" height="688"/>
+	<SubTexture name="kat left0002" x="5" y="1389" width="335" height="688" frameX="-1" frameY="0" frameWidth="336" frameHeight="688"/>
+	<SubTexture name="kat left0003" x="5" y="1389" width="335" height="688" frameX="-1" frameY="0" frameWidth="336" frameHeight="688"/>
+	<SubTexture name="kat left0004" x="5" y="1389" width="335" height="688" frameX="-1" frameY="0" frameWidth="336" frameHeight="688"/>
+	<SubTexture name="kat left0005" x="5" y="1389" width="335" height="688" frameX="-1" frameY="0" frameWidth="336" frameHeight="688"/>
+	<SubTexture name="kat left0006" x="5" y="1389" width="335" height="688" frameX="-1" frameY="0" frameWidth="336" frameHeight="688"/>
+	<SubTexture name="kat left0007" x="5" y="1389" width="335" height="688" frameX="-1" frameY="0" frameWidth="336" frameHeight="688"/>
+	<SubTexture name="kat right0000" x="5" y="5" width="456" height="687" frameX="0" frameY="-2" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0001" x="5" y="5" width="456" height="687" frameX="0" frameY="-2" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0002" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0003" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0004" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0005" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0006" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0007" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0008" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0009" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0010" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0011" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0012" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat right0013" x="466" y="5" width="451" height="689" frameX="-1" frameY="0" frameWidth="456" frameHeight="689"/>
+	<SubTexture name="kat up0000" x="1698" y="1371" width="335" height="703" frameX="-8" frameY="0" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0001" x="1698" y="1371" width="335" height="703" frameX="-8" frameY="0" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0002" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0003" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0004" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0005" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0006" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0007" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0008" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0009" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+	<SubTexture name="kat up0010" x="1352" y="1371" width="341" height="701" frameX="0" frameY="-2" frameWidth="343" frameHeight="703"/>
+</TextureAtlas>

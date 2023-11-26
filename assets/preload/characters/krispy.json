@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-188,
+				209
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "krispy up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-252,
+				172
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "krispy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				182
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "krispy left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-193,
+				133
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "krispy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-217,
+				192
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "krispy idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/krispy",
+	"position": [
+		-230,
+		280
+	],
+	"healthicon": "krispy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		310,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

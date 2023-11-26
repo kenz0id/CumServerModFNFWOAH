@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-95
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				-95
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				-81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-192,
+				-113
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kat down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/kat",
+	"position": [
+		-190,
+		-20
+	],
+	"healthicon": "kat",
+	"flip_x": false,
+	"healthbar_colors": [
+		66,
+		168,
+		240
+	],
+	"camera_position": [
+		230,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-215,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zac right"
+		},
+		{
+			"offsets": [
+				-111,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zac left"
+		},
+		{
+			"offsets": [
+				-176,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zac up"
+		},
+		{
+			"offsets": [
+				-76,
+				-264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zac down"
+		},
+		{
+			"offsets": [
+				-150,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zac idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/cursed-zac",
+	"position": [
+		-200,
+		10
+	],
+	"healthicon": "zac",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		108,
+		108
+	],
+	"camera_position": [
+		240,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

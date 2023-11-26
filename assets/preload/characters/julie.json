@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "julie idle"
+		},
+		{
+			"offsets": [
+				-214,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "julie right"
+		},
+		{
+			"offsets": [
+				-114,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "julie left"
+		},
+		{
+			"offsets": [
+				-199,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "julie up"
+		},
+		{
+			"offsets": [
+				-222,
+				-152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "julie down"
+		},
+		{
+			"offsets": [
+				-185,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "STOH",
+			"indices": [],
+			"name": "julie stoh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/julie",
+	"position": [
+		-210,
+		50
+	],
+	"healthicon": "julie",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		108,
+		108
+	],
+	"camera_position": [
+		260,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

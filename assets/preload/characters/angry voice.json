@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Voice Idle Dance"
+		},
+		{
+			"offsets": [
+				44,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Voice Up"
+		},
+		{
+			"offsets": [
+				27,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Voice Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-49
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Voice Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Voice Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/angry voice",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "voice",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		153,
+		204
+	],
+	"camera_position": [
+		100,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

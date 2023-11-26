@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-267,
+				301
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kenzy1idle",
+			"indices": [
+				14,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-272,
+				332
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kenzy1up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				281
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kenzy1left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-257,
+				227
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kenzy1down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-263,
+				255
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kenzy1right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/kenzy",
+	"position": [
+		-300,
+		195
+	],
+	"healthicon": "kenzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		40,
+		38
+	],
+	"camera_position": [
+		320,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "goob idle"
+		},
+		{
+			"offsets": [
+				-259,
+				-117
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "goob right"
+		},
+		{
+			"offsets": [
+				-33,
+				-107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "goob left"
+		},
+		{
+			"offsets": [
+				-160,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "goob up"
+		},
+		{
+			"offsets": [
+				-183,
+				-182
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "goob down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/goob",
+	"position": [
+		-160,
+		-20
+	],
+	"healthicon": "goob",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		108,
+		108
+	],
+	"camera_position": [
+		240,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kowalski idle"
+		},
+		{
+			"offsets": [
+				162,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kowalski left"
+		},
+		{
+			"offsets": [
+				-29,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kowalski down"
+		},
+		{
+			"offsets": [
+				-76,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kowalski up"
+		},
+		{
+			"offsets": [
+				-64,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kowalski right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/kowalski",
+	"position": [
+		-40,
+		370
+	],
+	"healthicon": "kowalski",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		127,
+		122
+	],
+	"camera_position": [
+		-190,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

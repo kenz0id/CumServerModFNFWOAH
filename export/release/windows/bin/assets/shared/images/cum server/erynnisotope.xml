@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="erynnisotope.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="erynn down0000" x="1348" y="674" width="472" height="603" frameX="0" frameY="-11" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0001" x="1348" y="674" width="472" height="603" frameX="0" frameY="-11" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0002" x="1323" y="1926" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0003" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0004" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0005" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0006" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0007" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0008" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn down0009" x="431" y="1957" width="454" height="615" frameX="-9" frameY="0" frameWidth="472" frameHeight="615"/>
+	<SubTexture name="erynn idle0000" x="890" y="2546" width="445" height="626" frameX="0" frameY="-19" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0001" x="890" y="2546" width="445" height="626" frameX="0" frameY="-19" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0002" x="448" y="1319" width="445" height="633" frameX="0" frameY="-12" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0003" x="448" y="1319" width="445" height="633" frameX="0" frameY="-12" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0004" x="1348" y="1282" width="445" height="639" frameX="0" frameY="-6" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0005" x="1348" y="1282" width="445" height="639" frameX="0" frameY="-6" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0006" x="898" y="668" width="445" height="644" frameX="0" frameY="-2" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0007" x="898" y="668" width="445" height="644" frameX="0" frameY="-2" frameWidth="445" frameHeight="646"/>
+	<SubTexture name="erynn idle0008" x="448" y="668" width="445" height="646"/>
+	<SubTexture name="erynn idle0009" x="448" y="668" width="445" height="646"/>
+	<SubTexture name="erynn idle0010" x="448" y="668" width="445" height="646"/>
+	<SubTexture name="erynn idle0011" x="448" y="668" width="445" height="646"/>
+	<SubTexture name="erynn idle0012" x="448" y="668" width="445" height="646"/>
+	<SubTexture name="erynn idle0013" x="448" y="668" width="445" height="646"/>
+	<SubTexture name="erynn left0000" x="426" y="2577" width="421" height="656" frameX="0" frameY="-11" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0001" x="5" y="1336" width="421" height="667" frameX="0" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0002" x="5" y="2008" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0003" x="5" y="2008" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0004" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0005" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0006" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0007" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0008" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0009" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0010" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0011" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0012" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0013" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0014" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0015" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn left0016" x="1340" y="2546" width="416" height="667" frameX="-6" frameY="0" frameWidth="422" frameHeight="667"/>
+	<SubTexture name="erynn right0000" x="5" y="5" width="448" height="657" frameX="0" frameY="-1" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0001" x="5" y="5" width="448" height="657" frameX="0" frameY="-1" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0002" x="458" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0003" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0004" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0005" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0006" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0007" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0008" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0009" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn right0010" x="910" y="5" width="447" height="658" frameX="-1" frameY="0" frameWidth="448" frameHeight="658"/>
+	<SubTexture name="erynn up0000" x="898" y="1317" width="420" height="672" frameX="-9" frameY="0" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0001" x="898" y="1317" width="420" height="672" frameX="-9" frameY="0" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0002" x="1362" y="5" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0003" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0004" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0005" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0006" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0007" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0008" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0009" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+	<SubTexture name="erynn up0010" x="5" y="667" width="438" height="664" frameX="0" frameY="-8" frameWidth="438" frameHeight="672"/>
+</TextureAtlas>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mysterydavao.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mystery down0000" x="1153" y="1203" width="1012" height="1154" frameX="0" frameY="-21" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0001" x="1153" y="1203" width="1012" height="1154" frameX="0" frameY="-21" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0002" x="1003" y="5846" width="995" height="1163" frameX="-13" frameY="0" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0003" x="1003" y="5846" width="995" height="1163" frameX="-13" frameY="0" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0004" x="1018" y="3522" width="1010" height="1156" frameX="-13" frameY="-6" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0005" x="1018" y="3522" width="1010" height="1156" frameX="-13" frameY="-6" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0006" x="1018" y="3522" width="1010" height="1156" frameX="-13" frameY="-6" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0007" x="1018" y="3522" width="1010" height="1156" frameX="-13" frameY="-6" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery down0008" x="1018" y="3522" width="1010" height="1156" frameX="-13" frameY="-6" frameWidth="1023" frameHeight="1175"/>
+	<SubTexture name="mystery idle0000" x="2012" y="4683" width="978" height="1172" frameX="-19" frameY="-8" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0001" x="2012" y="4683" width="978" height="1172" frameX="-19" frameY="-8" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0002" x="2170" y="1203" width="993" height="1163" frameX="-11" frameY="-5" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0003" x="2170" y="1203" width="993" height="1163" frameX="-11" frameY="-5" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0004" x="1003" y="4683" width="1004" height="1158" frameX="-5" frameY="-2" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0005" x="1003" y="4683" width="1004" height="1158" frameX="-5" frameY="-2" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0006" x="1133" y="2362" width="1011" height="1155" frameX="-1" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0007" x="1133" y="2362" width="1011" height="1155" frameX="-1" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0008" x="2199" y="5" width="1013" height="1153" frameX="0" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0009" x="2199" y="5" width="1013" height="1153" frameX="0" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0010" x="2199" y="5" width="1013" height="1153" frameX="0" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0011" x="2199" y="5" width="1013" height="1153" frameX="0" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery idle0012" x="2199" y="5" width="1013" height="1153" frameX="0" frameY="0" frameWidth="1013" frameHeight="1180"/>
+	<SubTexture name="mystery left0000" x="5" y="3441" width="1008" height="1225" frameX="0" frameY="0" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0001" x="5" y="3441" width="1008" height="1225" frameX="0" frameY="0" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0002" x="1205" y="5" width="989" height="1193" frameX="-39" frameY="-8" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0003" x="1205" y="5" width="989" height="1193" frameX="-39" frameY="-8" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0004" x="5" y="4671" width="993" height="1203" frameX="-29" frameY="-4" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0005" x="5" y="4671" width="993" height="1203" frameX="-29" frameY="-4" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0006" x="5" y="4671" width="993" height="1203" frameX="-29" frameY="-4" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0007" x="5" y="4671" width="993" height="1203" frameX="-29" frameY="-4" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery left0008" x="5" y="5879" width="993" height="1203" frameX="-29" frameY="-4" frameWidth="1028" frameHeight="1225"/>
+	<SubTexture name="mystery right0000" x="5" y="5" width="1195" height="1138" frameX="0" frameY="-14" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0001" x="5" y="5" width="1195" height="1138" frameX="0" frameY="-14" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0002" x="5" y="2294" width="1123" height="1142" frameX="-27" frameY="0" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0003" x="5" y="2294" width="1123" height="1142" frameX="-27" frameY="0" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0004" x="5" y="1148" width="1143" height="1141" frameX="-22" frameY="-7" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0005" x="5" y="1148" width="1143" height="1141" frameX="-22" frameY="-7" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0006" x="5" y="1148" width="1143" height="1141" frameX="-22" frameY="-7" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0007" x="5" y="1148" width="1143" height="1141" frameX="-22" frameY="-7" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery right0008" x="5" y="1148" width="1143" height="1141" frameX="-22" frameY="-7" frameWidth="1195" frameHeight="1152"/>
+	<SubTexture name="mystery up0000" x="2033" y="3522" width="1047" height="1105" frameX="0" frameY="-13" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0001" x="2033" y="3522" width="1047" height="1105" frameX="0" frameY="-13" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0002" x="2003" y="5860" width="985" height="1141" frameX="-33" frameY="0" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0003" x="2003" y="5860" width="985" height="1141" frameX="-33" frameY="0" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0004" x="2149" y="2371" width="997" height="1115" frameX="-26" frameY="-6" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0005" x="2149" y="2371" width="997" height="1115" frameX="-26" frameY="-6" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0006" x="2149" y="2371" width="997" height="1115" frameX="-26" frameY="-6" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0007" x="2149" y="2371" width="997" height="1115" frameX="-26" frameY="-6" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0008" x="2149" y="2371" width="997" height="1115" frameX="-26" frameY="-6" frameWidth="1047" frameHeight="1141"/>
+	<SubTexture name="mystery up0009" x="2149" y="2371" width="997" height="1115" frameX="-26" frameY="-6" frameWidth="1047" frameHeight="1141"/>
+</TextureAtlas>

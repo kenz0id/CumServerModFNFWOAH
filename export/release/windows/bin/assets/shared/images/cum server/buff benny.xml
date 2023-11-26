@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buff benny.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="benny left0000" x="948" y="5" width="457" height="846" frameX="-9" frameY="-17" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0001" x="948" y="5" width="457" height="846" frameX="-9" frameY="-17" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0002" x="5" y="5" width="479" height="864" frameX="0" frameY="0" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0003" x="5" y="5" width="479" height="864" frameX="0" frameY="0" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0004" x="489" y="5" width="454" height="864" frameX="-34" frameY="0" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0005" x="489" y="5" width="454" height="864" frameX="-34" frameY="0" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0006" x="1410" y="5" width="438" height="863" frameX="-56" frameY="-1" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0007" x="1410" y="5" width="438" height="863" frameX="-56" frameY="-1" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0008" x="5" y="874" width="429" height="863" frameX="-68" frameY="-1" frameWidth="498" frameHeight="864"/>
+	<SubTexture name="benny left0009" x="1383" y="873" width="430" height="863" frameX="-68" frameY="-1" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny left0010" x="1383" y="873" width="430" height="863" frameX="-68" frameY="-1" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny left0011" x="1383" y="873" width="430" height="863" frameX="-68" frameY="-1" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0000" x="439" y="1738" width="414" height="851" frameX="-43" frameY="-11" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0001" x="439" y="1738" width="414" height="851" frameX="-43" frameY="-11" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0002" x="5" y="1742" width="416" height="842" frameX="-30" frameY="-20" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0003" x="5" y="1742" width="416" height="842" frameX="-30" frameY="-20" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0004" x="868" y="1724" width="420" height="850" frameX="-18" frameY="-13" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0005" x="868" y="1724" width="420" height="850" frameX="-18" frameY="-13" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0006" x="439" y="874" width="424" height="859" frameX="-9" frameY="-4" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0007" x="439" y="874" width="424" height="859" frameX="-9" frameY="-4" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0008" x="948" y="856" width="430" height="863" frameX="0" frameY="0" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0009" x="1383" y="873" width="430" height="863" frameX="0" frameY="0" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0010" x="1383" y="873" width="430" height="863" frameX="0" frameY="0" frameWidth="457" frameHeight="863"/>
+	<SubTexture name="benny right0011" x="1383" y="873" width="430" height="863" frameX="0" frameY="0" frameWidth="457" frameHeight="863"/>
+</TextureAtlas>

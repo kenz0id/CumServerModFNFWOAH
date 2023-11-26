@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zac.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zac down0000" x="525" y="711" width="396" height="651" frameX="0" frameY="-10" frameWidth="396" frameHeight="661"/>
+	<SubTexture name="zac down0001" x="525" y="711" width="396" height="651" frameX="0" frameY="-10" frameWidth="396" frameHeight="661"/>
+	<SubTexture name="zac down0002" x="455" y="2114" width="391" height="661" frameX="-5" frameY="0" frameWidth="396" frameHeight="661"/>
+	<SubTexture name="zac down0003" x="455" y="2114" width="391" height="661" frameX="-5" frameY="0" frameWidth="396" frameHeight="661"/>
+	<SubTexture name="zac down0004" x="455" y="2114" width="391" height="661" frameX="-5" frameY="0" frameWidth="396" frameHeight="661"/>
+	<SubTexture name="zac down0005" x="455" y="2114" width="391" height="661" frameX="-5" frameY="0" frameWidth="396" frameHeight="661"/>
+	<SubTexture name="zac idle0000" x="531" y="5" width="362" height="674" frameX="0" frameY="-19" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0001" x="531" y="5" width="362" height="674" frameX="0" frameY="-19" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0002" x="5" y="2812" width="373" height="678" frameX="-3" frameY="-14" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0003" x="5" y="2812" width="373" height="678" frameX="-3" frameY="-14" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0004" x="804" y="2780" width="364" height="686" frameX="-5" frameY="-6" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0005" x="804" y="2780" width="364" height="686" frameX="-5" frameY="-6" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0006" x="926" y="5" width="359" height="691" frameX="-6" frameY="-1" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0007" x="926" y="5" width="359" height="691" frameX="-6" frameY="-1" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0008" x="880" y="1367" width="358" height="693" frameX="-6" frameY="0" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0009" x="880" y="1367" width="358" height="693" frameX="-6" frameY="0" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0010" x="880" y="1367" width="358" height="693" frameX="-6" frameY="0" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac idle0011" x="880" y="1367" width="358" height="693" frameX="-6" frameY="0" frameWidth="376" frameHeight="693"/>
+	<SubTexture name="zac left0000" x="5" y="5" width="521" height="701" frameX="0" frameY="0" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0001" x="5" y="5" width="521" height="701" frameX="0" frameY="0" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0002" x="5" y="711" width="515" height="699" frameX="-7" frameY="-2" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0003" x="5" y="711" width="515" height="699" frameX="-7" frameY="-2" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0004" x="5" y="711" width="515" height="699" frameX="-7" frameY="-2" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0005" x="5" y="711" width="515" height="699" frameX="-7" frameY="-2" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0006" x="5" y="711" width="515" height="699" frameX="-7" frameY="-2" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac left0007" x="5" y="711" width="515" height="699" frameX="-7" frameY="-2" frameWidth="522" frameHeight="701"/>
+	<SubTexture name="zac right0000" x="5" y="1415" width="455" height="694"/>
+	<SubTexture name="zac right0001" x="5" y="1415" width="455" height="694"/>
+	<SubTexture name="zac right0002" x="5" y="2114" width="445" height="693" frameX="0" frameY="-1" frameWidth="455" frameHeight="694"/>
+	<SubTexture name="zac right0003" x="5" y="2114" width="445" height="693" frameX="0" frameY="-1" frameWidth="455" frameHeight="694"/>
+	<SubTexture name="zac right0004" x="5" y="2114" width="445" height="693" frameX="0" frameY="-1" frameWidth="455" frameHeight="694"/>
+	<SubTexture name="zac right0005" x="5" y="2114" width="445" height="693" frameX="0" frameY="-1" frameWidth="455" frameHeight="694"/>
+	<SubTexture name="zac right0006" x="5" y="2114" width="445" height="693" frameX="0" frameY="-1" frameWidth="455" frameHeight="694"/>
+	<SubTexture name="zac right0007" x="5" y="2114" width="445" height="693" frameX="0" frameY="-1" frameWidth="455" frameHeight="694"/>
+	<SubTexture name="zac up0000" x="455" y="2780" width="344" height="738" frameX="-6" frameY="0" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0001" x="455" y="2780" width="344" height="738" frameX="-6" frameY="0" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0002" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0003" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0004" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0005" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0006" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0007" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+	<SubTexture name="zac up0008" x="525" y="1367" width="350" height="729" frameX="0" frameY="-9" frameWidth="350" frameHeight="738"/>
+</TextureAtlas>

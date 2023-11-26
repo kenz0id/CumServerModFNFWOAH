@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-174,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleConfident"
+		},
+		{
+			"offsets": [
+				-155,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NoteDown confident"
+		},
+		{
+			"offsets": [
+				-168,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NoteLeft Confident"
+		},
+		{
+			"offsets": [
+				-175,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NoteUp confident"
+		},
+		{
+			"offsets": [
+				-169,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NoteRight confident"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/ConfidentNonsense",
+	"position": [
+		-190,
+		0
+	],
+	"healthicon": "clark",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		250,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

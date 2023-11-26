@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				-112
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gave idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gave right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-99
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gave left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				-85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gave up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-163
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gave down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "cum server/gave",
+	"position": [
+		-120,
+		-40
+	],
+	"healthicon": "gave",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		46,
+		27
+	],
+	"camera_position": [
+		230,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
